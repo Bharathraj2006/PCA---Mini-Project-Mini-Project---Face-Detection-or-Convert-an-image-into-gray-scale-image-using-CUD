@@ -133,7 +133,8 @@ void outputImage(const std::string& output_file, unsigned char* grey_image, int 
 ## OUTPUT:
 
 ### Input Image
-<img width="1024" height="1024" alt="sample" src="https://github.com/user-attachments/assets/5db4f147-9c58-426b-a2b7-a17cb62aaa90" />
+
+<img width="389" height="389" alt="normal" src="https://github.com/user-attachments/assets/cf1f0f2e-7762-4d7a-b7e6-c3bbd4043240" />
 
 
 
